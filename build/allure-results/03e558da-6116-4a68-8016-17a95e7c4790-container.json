@@ -1,0 +1,1 @@
+{"uuid":"03e558da-6116-4a68-8016-17a95e7c4790","name":"testClickWriteButton()","children":["f33bfead-c549-4ae1-90c8-bba0b86a1a32"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1715097104498,"stop":1715097109629}],"afters":[],"start":1715097104458,"stop":1715097116052}

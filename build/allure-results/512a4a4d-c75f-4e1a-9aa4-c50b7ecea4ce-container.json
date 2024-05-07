@@ -1,0 +1,1 @@
+{"uuid":"512a4a4d-c75f-4e1a-9aa4-c50b7ecea4ce","name":"testPhotoPresence()","children":["c8ac1408-78fd-41a9-bb0b-dfab99b61d63"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1715097740936,"stop":1715097746152}],"afters":[],"start":1715097740892,"stop":1715097746773}
