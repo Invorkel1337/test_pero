@@ -4,6 +4,8 @@ import com.codeborne.selenide.SelenideElement;
 
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.$;
+
+////// Вообще на сколько я знаю страницы должны лежать в src/main/java.... но тут не грейдл не давал их туда переместить я их тут оставил
 public class MainPage {
     public SelenideElement
             publicPhoto = $(".redesigned-group-avatar"),
