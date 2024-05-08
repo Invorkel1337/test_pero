@@ -1,0 +1,1 @@
+{"uuid":"44524a3b-f417-4b6f-adcb-09506fc669e9","name":"Тест на редирект с кнопки лайка","children":["326b8432-748b-44bb-a9c1-93e1a26252fa"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1715185593199,"stop":1715185599672}],"afters":[],"start":1715185593148,"stop":1715185601457}

@@ -1,0 +1,1 @@
+{"uuid":"15b25722-f6b1-431d-bf03-63415f5c2be3","name":"Тест на редирект кнопки показать все","children":["4cd91b6a-5f6f-40a7-8d5e-bb392cb915a2"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1715188100932,"stop":1715188105965}],"afters":[],"start":1715188100868,"stop":1715188108565}
